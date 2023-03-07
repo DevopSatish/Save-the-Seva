@@ -1,0 +1,67 @@
+[
+    {
+        "model": "core.aadhaar",
+        "pk": 1,
+        "fields": {
+            "name": "Abhishek M",
+            "aadhaar_number": 123412341234,
+            "phone_number": "9663265931",
+            "address": "Grand Majestic Centre, No.12, 2nd Cross Road, SC Road, Gandhi Nagar, Bangalore, Karnataka",
+            "requested_changes": {},
+            "created_at": "2022-08-25 20:45:29",
+            "updated_at": "2022-08-25 20:45:29"
+        }
+    },
+    {
+        "model": "core.aadhaar",
+        "pk": 2,
+        "fields": {
+            "name": "Keerthan Gowda",
+            "aadhaar_number": 432143214321,
+            "phone_number": "9876543210",
+            "requested_changes": {},
+            "address": "H.No. 36, Pattalamma Temple Road , Next to Pai Vista Convention Center, Near South End Circle, Bengaluru, Karnataka",
+            "created_at": "2022-08-25 20:45:29",
+            "updated_at": "2022-08-25 20:45:29"
+        }
+    },
+    {
+        "model": "core.aadhaar",
+        "pk": 3,
+        "fields": {
+            "name": "Satish G",
+            "aadhaar_number": 888811112222,
+            "phone_number": "9876543211",
+            "requested_changes": {},
+            "address": "No 122, Kormanagala 7th Phase, Bangalore, Karnataka",
+            "created_at": "2022-08-25 20:45:29",
+            "updated_at": "2022-08-25 20:45:29"
+        }
+    },
+    {
+        "model": "core.aadhaar",
+        "pk": 4,
+        "fields": {
+            "name": "Amrutha H",
+            "aadhaar_number": 111122223333,
+            "phone_number": "9876543212",
+            "requested_changes": {},
+            "address": "#321, Whitefield 7th Phase, Bangalore, Karnataka",
+            "created_at": "2022-08-25 20:45:29",
+            "updated_at": "2022-08-25 20:45:29"
+        }
+    },
+    {
+        "model": "core.aadhaar",
+        "pk": 5,
+        "fields": {
+            "name": "Preritha G",
+            "aadhaar_number": 444455556666,
+            "phone_number": "9876543213",
+            "requested_changes": {},
+            "address": "#69, Silk Board, Bangalore, Karnataka",
+            "created_at": "2022-08-25 20:45:29",
+            "updated_at": "2022-08-25 20:45:29"
+        }
+    }
+]
